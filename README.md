@@ -1,2 +1,2 @@
 
-hello,welcome to my github, email:lzq666amn@gmail.com.
+hello,email:lzq666amn@gmail.com.
